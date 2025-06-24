@@ -1,16 +1,19 @@
-## Hi there 👋
+## リポジトリの説明
+- [dotfiles](https://github.com/nometoko/dotfiles) \
+  zsh等の設定を保存するリポジトリ
 
-<!--
-**sugawarahirotaka/sugawarahirotaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [qiita](https://github.com/sugawarahirotaka/qiita) \
+  qiita-cliを使って記事を編集するリポジトリ
 
-Here are some ideas to get you started:
+- [CalculatorGUI](https://github.com/sugawarahirotaka/CalculatorGUI) \
+  Javaを用いた、シンプルなGUI電卓アプリケーション
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [JudgeServer](https://github.com/nometoko/JudgeServerforEducation) \
+  研究室の新入生教育の効率化のため、C言語の自動採点&課題管理ツールを開発。データベースの設計・実装を担当。
+
+- [rna_folding](https://github.com/nometoko/rna_folding) \
+  [Kaggleのコンペティション](https://www.kaggle.com/competitions/stanford-rna-3d-folding)に挑戦した。RNA配列の3D構造予測を深層学習により予測した。
+
+## 研究実績
+- CRESTバイオDX第4回領域会議にて、ポスター発表 (2025/06/03)
+- 24th Annual International Conference on Systems Biology (ICSB 2025)にabstractを提出済（2025/10/05~09）（査読中）
