@@ -2,7 +2,7 @@
 - [BO_test](https://github.com/sugawarahirotaka/BO_test) \
   ベンチマーク関数を用いてベイズ最適化の最適化に要する時間を検証するテストコード
   
-- [dotfiles](https://github.com/nometoko/dotfiles) \
+- [dotfiles](https://github.com/sugawarahirotaka/dotfiles) \
   zsh等の設定を保存するリポジトリ
 
 - [qiita](https://github.com/sugawarahirotaka/qiita) \
