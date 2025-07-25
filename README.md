@@ -18,5 +18,5 @@
   [Kaggleのコンペティション](https://www.kaggle.com/competitions/stanford-rna-3d-folding)に挑戦した。RNA配列の3D構造予測を深層学習により予測した。
 
 ## 研究実績
-- CRESTバイオDX第4回領域会議にて、ポスター発表 (2025/06/03)
-- 24th Annual International Conference on Systems Biology (ICSB 2025)にabstractを提出済（2025/10/05~09）（査読中）
+- CRESTバイオDX第4回領域会議, 東京, 2025年6月3日発表済み
+- 24th Annual International Conference on Systems Biology (ICSB 2025), Dublin, Ireland, 2025年10月5~9日発表予定
