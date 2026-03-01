@@ -25,4 +25,4 @@
 ## 研究実績
 - CRESTバイオDX第4回領域会議, 東京, 2025年6月3日
 - 24th Annual International Conference on Systems Biology (ICSB 2025), Dublin, Ireland, 2025年10月5~9日
-- 2025年度CREST「データ駆動・AI駆動を中心としたデジタルトランスフォーメーションによる生命科学研究の革新」領域中間報告シンポジウム, 東京, 2025年11月26~27日
+- [2025年度CREST「データ駆動・AI駆動を中心としたデジタルトランスフォーメーションによる生命科学研究の革新」領域中間報告シンポジウム](https://www.jst.go.jp/kisoken/aip/result/event/biodx2025/index.html), 東京, 2025年11月26~27日
