@@ -19,6 +19,7 @@
 
 - [tis_cmi](https://github.com/kaggle-fun-club/tis_cmi) \
   [Kaggleのコンペティション](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data)に挑戦し、銀メダルを獲得した。ウェアラブルデバイスから得られる3種類の時系列センサデータを用いて人間の行動を分類した。
+  <img width="4800" height="2960" alt="Image" src="https://github.com/user-attachments/assets/15c1be0c-462a-40f4-95af-259518e29cef" />
   
 
 ## 研究実績
