@@ -1,6 +1,6 @@
 ## リポジトリの説明
 - [BO-research-template](https://github.com/sugawarahirotaka/BO-research-template) \
-  ベイズ最適化のアルゴリズム開発をスムーズに行うためのテンプレートリポジトリ
+  ベイズ最適化のアルゴリズム開発をスムーズに行うためのテンプレートリポジトリ。
   Hydraによる実験設定・run directory管理、ruff/ty/pytest/pre-commitによる品質保証、poethepoetによるタスク管理を備え、GPU実行にも対応した保守性の高いテンプレートである。
   
 - [dotfiles](https://github.com/sugawarahirotaka/dotfiles) \
