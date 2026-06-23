@@ -1,5 +1,5 @@
 ## リポジトリの説明
-- [BO_test](https://github.com/sugawarahirotaka/BO-research-template) \
+- [BO-research-template](https://github.com/sugawarahirotaka/BO-research-template) \
   ベイズ最適化のアルゴリズム開発をスムーズに行うためのテンプレートリポジトリ
   
 - [dotfiles](https://github.com/sugawarahirotaka/dotfiles) \
