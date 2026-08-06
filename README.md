@@ -28,3 +28,5 @@
 - [24th Annual International Conference on Systems Biology (ICSB 2025)](https://icsb2025.com/), Dublin, Ireland, 2025年10月5~9日
 - [2025年度CREST「データ駆動・AI駆動を中心としたデジタルトランスフォーメーションによる生命科学研究の革新」領域中間報告シンポジウム](https://www.jst.go.jp/kisoken/aip/result/event/biodx2025/index.html), 東京, 2025年11月26~27日
 - CRESTバイオDX第5回領域会議, 静岡, 2026年6月8日
+- [Optimization of time-consuming experimental conditions using pseudo-experimental data guided by adaptive polynomial regression](https://arxiv.org/abs/2607.22238), _arXiv:2607.22238_, (2026)
+  -   実装：https://github.com/funalab/PolyBO
